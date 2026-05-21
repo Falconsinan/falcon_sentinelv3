@@ -1,0 +1,6 @@
+rich
+requests
+matplotlib
+folium
+scikit-learn
+numpy

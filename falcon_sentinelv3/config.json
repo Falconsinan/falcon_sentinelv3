@@ -1,0 +1,21 @@
+{
+  "log_file": "auth.log",
+
+  "telegram": {
+    "enabled": true,
+    "bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+    "chat_id": "YOUR_CHAT_ID"
+  },
+
+  "blocking": {
+    "enabled": false
+  },
+
+  "geo_lookup": {
+    "enabled": true
+  },
+
+  "ai_detection": {
+    "enabled": true
+  }
+}
